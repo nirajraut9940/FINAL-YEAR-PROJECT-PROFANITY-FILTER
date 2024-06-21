@@ -1,4 +1,5 @@
 Chatbot: Profanity Detection Generative AI
+
 This project is a Tkinter-based chatbot application that integrates a profanity detection model and a generative AI model to provide appropriate responses while filtering out harmful content. The application uses the unitary/toxic-bert model to classify and detect harmful content in user input and utilizes the Google Gemini API to generate responses.
 
 Features
