@@ -14,7 +14,7 @@ model = transformers.AutoModelForSequenceClassification.from_pretrained(
 )
 
 # Gemini API Key (replace with your actual key)
-GEMINI_API_KEY = "AIzaSyCTsstBica7Hf9A_lZmEYGQI20Wh5hbJ0w"
+GEMINI_API_KEY = "*****"
 
 # Function to check for harmful content
 def classify_content(text, threshold=0.7):
